@@ -1,6 +1,6 @@
 /**
  * HelloApp - UC1 - Display Hello World
- * @author Adit
+ * @author SaiPothireddy
  * @version 1.0
  */
 public class HelloAppUC1 {
